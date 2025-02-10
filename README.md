@@ -25,7 +25,7 @@ I am a neurodivergent programmer with a bachelor's degree in Computer Science En
 
 ## Connect with Me
 
-- LinkedIn: [Meena Alekhyat]((https://www.linkedin.com/in/meena-alekhya-t/))
+- LinkedIn: [Meena Alekhya T](https://www.linkedin.com/in/meena-alekhya-t/)
 - Email: [alekhyameena533@gmail.com](mailto:alekhyameena533@gmail.com)
 
 ---
