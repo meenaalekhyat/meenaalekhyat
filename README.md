@@ -1,4 +1,4 @@
-# Hi there, I'm Meena Alekhyat! 👋
+# Hi there, I'm Meena Alekhya T! 👋
 
 I am a neurodivergent programmer with a bachelor's degree in Computer Science Engineering. Currently, I am on an exciting journey to learn and master Machine Learning and Artificial Intelligence, with the goal of researching in the field of Bioinformatics if I get into grad school.
 
